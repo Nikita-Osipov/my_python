@@ -1,5 +1,5 @@
 def evenQ(x):
     if x%2 == 0:
-        print('Число ',x,' четное')
+        print('True')
     else:
-        print('Число ',x,' нечетное')
+        print('False')
