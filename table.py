@@ -1,4 +1,4 @@
-atmn=input('Введите номер элемента n: ')
+atmn = input('Введите номер элемента n: ')
 if atmn:
     n = float(atmn)
     if n == 3.0:
