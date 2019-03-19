@@ -1,6 +1,7 @@
 import random
 dw = ['самовар','весна','лето']
 n = random.choice(dw)
+print(type(n))
 i = n.index(random.choice(n))
 n1 = list(n)
 n1[i] = '?'
